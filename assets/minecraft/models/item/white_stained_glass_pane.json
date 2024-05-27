@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:block/white_stained_glass"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 656624}, "model": "ltitemmail:item/blank"},
+		{ "predicate": {"custom_model_data": 803313}, "model": "ltitemmail:item/mailbox"},
+		{ "predicate": {"custom_model_data": 803314}, "model": "ltitemmail:item/mailbox_pending"},
+		{ "predicate": {"custom_model_data": 803315}, "model": "ltitemmail:item/mailbox_admin"}
+	]
+}

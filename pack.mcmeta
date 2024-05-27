@@ -1,0 +1,31 @@
+{
+  "pack": {
+    "pack_format": 22,
+    "supported_formats": {
+      "min_inclusive": 5,
+      "max_inclusive": 32
+    },
+    "description": [
+      "LT Item Mail 1.0.0",
+      {
+        "text": "Custom textures for mail inventories.",
+        "hoverEvent": {
+          "action": "show_text",
+          "value": "It adds a custom graphic interface and custom texture for buttons.",
+          "contents": "It adds a custom graphic interface and custom texture for buttons."
+        }
+      }
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 5,
+          "max_inclusive": 32
+        },
+        "directory": "1.20.4"
+      }
+    ]
+  }
+}
