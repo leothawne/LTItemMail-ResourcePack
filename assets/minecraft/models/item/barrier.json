@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/barrier"
 	},
 	"overrides": [
-		{ "predicate": {"custom_model_data": 884369}, "model": "ltitemmail:item/deny_button"}
+		{ "predicate": {"custom_model_data": 999999007}, "model": "ltitemmail:item/deny_button"}
 	]
 }

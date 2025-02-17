@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/ender_eye"
 	},
 	"overrides": [
-		{ "predicate": {"custom_model_data": 381527}, "model": "ltitemmail:item/accept_button"}
+		{ "predicate": {"custom_model_data": 999999008}, "model": "ltitemmail:item/accept_button"}
 	]
 }

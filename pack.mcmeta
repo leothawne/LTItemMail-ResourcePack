@@ -8,7 +8,7 @@
     "description": [
       "LT Item Mail 1.0.0",
       {
-        "text": "Custom textures for mail inventories.",
+        "text": " Custom textures for mail inventories.",
         "hoverEvent": {
           "action": "show_text",
           "value": "It adds a custom graphic interface and custom texture for buttons.",
